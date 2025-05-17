@@ -1,0 +1,82 @@
+{
+    "language-select": "Język",
+    "welcome-message": "Cześć, jestem Filip",
+    "dev-desc": [
+        "Opis",
+        "Fullstack Dev",
+        "Tools maintainer",
+        "App reviver",
+        "FOOS enjoyer",
+        "Ojciec"
+    ],
+    "additional-technologies": "Dodatkowe technologie",
+    "frontend-desc": [
+        "Frontendem zajmuje się od 2018 roku, z czego komercyjnie od 2021. Większość mojej przygody spędziłem, pisząc kod w React, ale od 2022 mając większą kontrolę nad projektami, szala przechyliła się na Vue (to portfolio jest napisane w Nuxt) a w szczególności SolidJS.",
+        "Podobna sytuacja jest w przypadku CSS'a gdzie zaczynałem pisząc go w czystym CSS'sie, Boostrap'ie i CSS-in-JS. Gdzie teraz pisze go głównie z wykorzystaniem tailwind"
+    ],
+    "project-desc-names": [
+        "Poziom zaangażowania",
+        "Czas",
+        "Zdobyte umiejętności"
+    ],
+    "projects-names": [
+        "Letssport",
+        "Światpaliw",
+        "Government",
+        "Loximide",
+        "Nieruchomości",
+        "Bronisze",
+        "AI"
+    ],
+    "projects-subname": [
+        "Zarządzanie wydarzeniami sportowymi",
+        "Prognozy paliw i nie tylko",
+        "Zarządzanie dokumentami i projektami",
+        "Kalkulator dla klimatyzacji",
+        "Aplikacja do narządzania nieruchomościami",
+        "Zarządzanie magazynami",
+        "GUI dla systemu wyszukującego zmian skórnych u pacjentów"
+    ],
+    "project-desc": [
+        [
+            "Drugorzędny frontend developer",
+            "Kilka miesięcy po rozpoczęciu pracy, trwał 2 lata",
+            "Zarządzanie mapami, tworzenie dużych dynamicznych formularzy, praca z websocketem i grapthql, pierwsze kroki w SSR"
+        ],
+        [
+            "Pierwszorzędny frontend developer",
+            "Pierwsza połowa roku 2023",
+            "Głębsze zarządzanie SSR, tworzenie wykresów, pobieranie danych z niewygodnych (HTML) źródeł"
+        ],
+        [
+            "Pierwszorzędny fullstack developer",
+            "Pierwsza połowa roku 2023",
+            "Tworzenie aplikacji Fullstack, zarządzanie plikami binarnymi, okiełznanie narzędzi popularnych w rządowych aplikacjach"
+        ],
+        [
+            "Pierwszorzędny fullstack developer",
+            "Drugi kwartał roku 2023",
+            "Zaawansowane użycie ServerFunction, zaawansowane użycie wykresów, tworzenie pdf'ów z puppeteer"
+        ],
+        [
+            "Doskokowy frontend developer",
+            "Pierwszy projekt po rozpoczęciu pracy",
+            "Nauka podstaw pracy z użyciem wewnętrznego Gita i baremetal linuxa"
+        ],
+        [
+            "Doskokowy frontend developer",
+            "Pierwszy rok pracy",
+            "Użycie bootstrap, praca z zespołem, mocne użycie state menagera"
+        ],
+        [
+            "Główny frontend developer drugiej fali",
+            "początek 2 roku pracy",
+            "Praca z elektronem. Naprawianie i modernizacja projektu w złym stanie technicznym"
+        ]
+    ],
+    "project-types": {
+        "generic": "Projekty",
+        "internal": "Wewnętrzne projekty"
+    },
+    "frameworks": "Frameworki"
+}

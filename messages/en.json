@@ -1,0 +1,82 @@
+{
+    "language-select": "Language",
+    "welcome-message": "Hello, I'm Filip",
+    "dev-desc": [
+        "Description",
+        "Fullstack Dev",
+        "Tools maintainer",
+        "App reviver",
+        "FOOS enjoyer",
+        "Father"
+    ],
+    "additional-technologies": "Additional technologies",
+    "frontend-desc": [
+        "I'm frontend developer since 2018 and commercially from 2021. Most of my time I've spent writing React, but from 2022 when I've get more control over projects I've move more to Vue (this portfolio is created using Nuxt) and specially SolidJS.",
+        "Similar situation is with CSS when I've start using pure CSS, Boostrap and CSS-in-JS. And now I'm writing css mainly in tailwind"
+    ],
+    "project-desc-names": [
+        "Level of commitment",
+        "Time",
+        "Gained skills"
+    ],
+    "projects-names": [
+        "Letssport",
+        "Światpaliw",
+        "Government",
+        "Loximide",
+        "Nieruchomości",
+        "Bronisze",
+        "AI"
+    ],
+    "projects-subname": [
+        "Sports event management",
+        "Fuel forecasts and more",
+        "Document and project management",
+        "Air conditioning calculator",
+        "Property management app",
+        "Warehouse management",
+        "GUI for a system that searches for skin lesions in patients"
+    ],
+    "project-desc": [
+        [
+            "Secondary frontend developer",
+            "A few months after starting work, for 2 years",
+            "Managing maps, creating large dynamic forms, working with websocket and grapthql, first steps in SSR"
+        ],
+        [
+            "Lead frontend developer",
+            "First half of 2023",
+            "Deeper SSR management, creating charts, fetching data from inconvenient (HTML) sources"
+        ],
+        [
+            "Lead frontend developer",
+            "First half of 2023",
+            "Creating fullstack applications, managing binaries, dealing with tools popular in Gov applications"
+        ],
+        [
+            "Lead frontend developer",
+            "Second quarter of 2023",
+            "Advanced use of ServerFunction, Advanced use of charts, Creating pdfs with puppeteer"
+        ],
+        [
+            "Additional frontend developer",
+            "First project after starting work",
+            "Learning the basics of working with external Git and baremetal Linux"
+        ],
+        [
+            "Additional frontend developer",
+            "First year of work",
+            "Using bootstrap, working with a team, heavy use of state management"
+        ],
+        [
+            "Lead frontend developer of the second wave",
+            "beginning of 2nd year",
+            "Working with electron. Repairing and modernizing a project in poor technical condition"
+        ]
+    ],
+    "project-types": {
+        "generic": "Projects",
+        "internal": "Internal projects"
+    },
+    "frameworks": "Frameworks"
+}
