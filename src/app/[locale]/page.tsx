@@ -3,13 +3,10 @@ import HomeHeader from '@/components/home-header'
 import HomeMediaLink from '@/components/home-media-link'
 import IconButtonList from '@/components/icon-button-list'
 import { Accordion, AccordionContent } from '@/components/ui/accordion'
-import { Carousel, CarouselContent, CarouselItem } from '@/components/ui/carousel'
-import { Link } from '@/i18n/navigation'
 import { Icon } from '@iconify/react'
 import { AccordionItem, AccordionTrigger } from '@radix-ui/react-accordion'
 import { getTranslations } from 'next-intl/server'
 import Image from 'next/image'
-import Autoplay from 'embla-carousel-autoplay'
 import HomeCarousel from '@/components/home-carousel'
 
 export default async function Home() {
