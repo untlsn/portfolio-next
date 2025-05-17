@@ -11,7 +11,7 @@
     ],
     "additional-technologies": "Dodatkowe technologie",
     "frontend-desc": [
-        "Frontendem zajmuje się od 2018 roku, z czego komercyjnie od 2021. Większość mojej przygody spędziłem, pisząc kod w React, ale od 2022 mając większą kontrolę nad projektami, szala przechyliła się na Vue (to portfolio jest napisane w Nuxt) a w szczególności SolidJS.",
+        "Frontendem zajmuje się od 2018 roku, z czego komercyjnie od 2021. Większość mojej przygody spędziłem, pisząc kod w React, ale nie boje się ubrudzić rąk pisząc Vue",
         "Podobna sytuacja jest w przypadku CSS'a gdzie zaczynałem pisząc go w czystym CSS'sie, Boostrap'ie i CSS-in-JS. Gdzie teraz pisze go głównie z wykorzystaniem tailwind"
     ],
     "project-desc-names": [

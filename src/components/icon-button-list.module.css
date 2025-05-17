@@ -1,0 +1,11 @@
+@keyframes move {
+    to {
+        translate: 0
+    }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .Move {
+        animation: move linear forwards;
+    }
+}
